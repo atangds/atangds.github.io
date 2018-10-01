@@ -1,0 +1,39 @@
+html {
+    background: url(../images/bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+.profile {
+    height: 400px;
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+
+.prof-pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.social {
+    font-size: 15px;
+}
+
+.social a {
+    color: white;
+}
+
+i {
+    padding: 10px;
+}
